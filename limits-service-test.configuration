@@ -1,0 +1,2 @@
+# get from default: limits-service.minimum 
+limits-service.maximum=300000
